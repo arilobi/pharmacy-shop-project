@@ -1,4 +1,4 @@
-# Pharmacy Management System (CLI)
+Pharmacy Management System (CLI)
 ## By Marion Okondo
 
 My project is a Command-Line Interface (CLI) based Pharmacy Management System. It allows users to register and log in, create, update, and delete products, and place and view orders.
